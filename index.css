@@ -1,0 +1,22 @@
+
+.div{
+    border: solid 2px;
+    position: absolute;
+    top: 16px;
+    width: 3cm;
+    height: 15cm;
+    text-align: center;
+}
+    
+.box1{
+    left: 1cm;
+}
+.box2{
+    left: 5cm;
+}
+.box3{
+    left: 9cm;
+}
+.box4{
+    left: 13cm;
+}
